@@ -1,7 +1,7 @@
 # BakerOS
 Kerbal Operating System Raster Prop Monitor IVA GUI
 
-BakerOperatingSystem 2.1.0
+BakerOperatingSystem 2.2.0
 
 a Kerbal Operating System Raster Prop Monitor GUI script file!
 
